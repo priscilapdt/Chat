@@ -1,15 +1,20 @@
-# Getting Started with Create React App
+# Chat
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# 📚 Sobre a aplicação
+O primeiro passo para iniciar a aplicação é realizar o clone do repositório disponível em:
+```
+git clone git@github.com:priscilapdt/Chat.git
+```
+# Iniciando a aplicação
+Execute o comando para selecionar a versão correta do node:
+```
+nvm use
+```
+Instale as dependências utilizando o comando:
+```
+npm install
+```
+Para iniciar a aplicação execute o comando:
+```
+npm start
+```
